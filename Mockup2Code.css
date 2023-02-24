@@ -1,0 +1,13 @@
+body
+{
+    background-color: #E0D9D3;
+    font-family: 'Inter', sans-serif;
+}
+
+#TopNav
+{
+   display: flex;
+   flex-direction: row;
+   gap: 103px;
+   justify-content: center;
+}
