@@ -2,6 +2,22 @@ body
 {
     background-color: #E0D9D3;
     font-family: 'Inter', sans-serif;
+    color: #F81808;
+}
+
+#Logo
+{
+    margin-top: 30px;
+    margin-left: 60px;
+    height: 37px;
+    width: 73px;
+}
+
+#Contact
+{
+    margin-top: 30;
+    margin-right: 60px;
+
 }
 
 #TopNav
@@ -11,3 +27,5 @@ body
    gap: 103px;
    justify-content: center;
 }
+
+.Titre
