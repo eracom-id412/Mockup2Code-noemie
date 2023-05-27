@@ -5,10 +5,50 @@ body
     color: #F81808;
 }
 
+*
+{
+    background-color: #E0D9D3;
+    font-family: 'Inter', sans-serif;
+    color: #F81808;
+}
+.container {
+    position: relative;
+	width: 100%;
+  }
+
+h1{
+    text-align: center;
+    font-size: 160px;
+    position: relative;
+}
+
+a{
+    text-decoration: none;
+}
+
+button{
+    background: rgba(227, 227, 227, 0.2);
+border: 1px solid #FFFFFF;
+backdrop-filter: blur(15px);
+border-radius: 40px;
+opacity: 0.7;
+width: 649.5px;
+height: 87.38px;
+box-sizing: border-box;
+font-size: 20px;
+position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #555;
+  font-size: 16px;
+  padding: 12px 24px;
+}
+
 #Logo
 {
     margin-top: 30px;
-    margin-left: 60px;
     height: 37px;
     width: 73px;
 }
@@ -19,6 +59,11 @@ body
     margin-right: 60px;
 
 }
+.top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+  }
 
 #TopNav
 {
@@ -27,5 +72,23 @@ body
    gap: 103px;
    justify-content: center;
 }
+#BottomNav
+{
+   display: flex;
+   flex-direction: row;
+   gap: 220px;
+   justify-content: center;
 
-.Titre
+}
+#LogoFooter{
+    width: auto;
+    height: 120px;
+    border-top: 2px solid #F81808;
+    background: #d9dbda;
+    margin: 10px;
+}
+
+footer{
+    padding: 25px;
+}
+
