@@ -28,7 +28,7 @@ Dans quel cas cela aide l'utilisateur ? (2 pts)
 
 ### Analyse de ma page (2 pts)
 
-- Taille globale de votre page.
+- Taille globale de votre page (en poids des données, donc le nombre de ko par exemple).
 
 - Répartition entre les différents contenus (images, fontes, html/css/js...)
 
