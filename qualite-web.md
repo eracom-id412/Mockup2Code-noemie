@@ -34,13 +34,13 @@ Dans quel cas cela aide l'utilisateur ? (2 pts) Cela permettra à un utilisateur
 
 - Répartition entre les différents contenus (images, fontes, html/css/js...)
 
-- Vitesse de chargement
+- Vitesse de chargement: 2,5 secondes.
 
 ### Performance - Amélioration 1
 
-Description + Pourquoi faire cette amélioration? (2 pts) Compression de la grande image en passant du format JPEG à Avif, ce qui diminue sa taille de 1,5Mo à 75ko.
+Description + Pourquoi faire cette amélioration? (2 pts) Compression de la grande image en passant du format JPEG à Avif.
 
-Indiquer le gain de performance mesuré (1 pt)
+Indiquer le gain de performance mesuré (1 pt) Diminution de la taille de l'image de 1,5Mo à 75ko.  La performance passe de 78 sur desktop à ???
 
 ### Performance - Amélioration 2
 
