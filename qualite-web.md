@@ -40,11 +40,11 @@ Dans quel cas cela aide l'utilisateur ? (2 pts) Cela permettra à un utilisateur
 
 Description + Pourquoi faire cette amélioration? (2 pts) Compression de la grande image en passant du format JPEG à Avif.
 
-Indiquer le gain de performance mesuré (1 pt) Diminution de la taille de l'image de 1,5Mo à 75ko.  La performance passe de 78 sur desktop à ???
+Indiquer le gain de performance mesuré (1 pt) Diminution de la taille de l'image de 1,5Mo à 75ko.  La note de performance passe de 78 sur desktop à 99. La  vitesse de chargement passe de 2,5 à 0,7 secondes.
 
 ### Performance - Amélioration 2
 
-Description + Pourquoi faire cette amélioration? (2 pts) Minify
+Description + Pourquoi faire cette amélioration? (2 pts) Minify, ce qui raccourcira le code en se débarrassant des éléments superflus.  Cela permettra d'économiser la bande passante.
 
 Indiquer le gain de performance mesuré (1 pt)
 
