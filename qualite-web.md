@@ -13,15 +13,15 @@ Listez et expliquez les problèmes d'accessibilité que vous avez détecté sur 
 ### A11Y - Amélioration 1
 
 Description de votre amélioration: (2 pts)
-Augmentation du contraste en le texte et le fond.
+Augmentation du contraste entre le texte et le fond, en assombrissant la couleur du texte de #F81808 à #880c04.
 
 Dans quel cas cela aide l'utilisateur ? (2 pts) Cela lui permettra de mieux lire le texte.
 
 ### A11Y - Amélioration 2
 
-Description de votre amélioration: (2 pts) Texte alternatif
+Description de votre amélioration: (2 pts) Ajout d'un texte alternatif pour la grande photo.
 
-Dans quel cas cela aide l'utilisateur ? (2 pts) Cela lui permettra de savoir ce que l'image représente.
+Dans quel cas cela aide l'utilisateur ? (2 pts) Cela permettra à un utilisateur aveugle ou malvoyant de savoir ce que l'image représente.
 
 ---
 
@@ -38,7 +38,7 @@ Dans quel cas cela aide l'utilisateur ? (2 pts) Cela lui permettra de savoir ce 
 
 ### Performance - Amélioration 1
 
-Description + Pourquoi faire cette amélioration? (2 pts) Compression de la grande image.
+Description + Pourquoi faire cette amélioration? (2 pts) Compression de la grande image en passant du format JPEG à Avif, ce qui diminue sa taille de 1,5Mo à 75ko.
 
 Indiquer le gain de performance mesuré (1 pt)
 

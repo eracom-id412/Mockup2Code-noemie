@@ -2,14 +2,14 @@ body
 {
     background-color: #E0D9D3;
     font-family: 'Inter';
-    color: #F81808;
+    color: #880c04;
 }
 
 *
 {
     background-color: #E0D9D3;
     font-family: 'Inter', sans-serif;
-    color: #F81808;
+    color: #880c04;
 }
 
 #titre
@@ -188,7 +188,7 @@ text-transform: lowercase;
 #LogoFooter{
     width: auto;
     height: 0px;
-    border-top: 2px solid #F81808;
+    border-top: 2px solid #880c04;
     background:none;
     margin: 10px;
 }
